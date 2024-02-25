@@ -1,7 +1,11 @@
 # ChatBot_NLU
 Natural Language Understanding using in this chatbot 
 The main use to implement this chabtot is to understsand the interaction of user and computer by analysis of words
+
+
 NLU chatbots are widely used in various applications such as customer service, virtual assistants, information retrieval, and more, offering users a more natural and intuitive way to interact with computer systems.
+
+
 This code implements a simple chatbot using TensorFlow/Keras for natural language processing and Tkinter for the graphical user interface (GUI). Here's a summary of its functionality:
 1.Importing Libraries: The necessary libraries are imported, including TensorFlow/Keras for the model, NLTK for text processing, and Tkinter for GUI.
 2.Loading Data: The code loads pre-trained model weights, preprocessed data (words and classes), and intents from JSON files.
